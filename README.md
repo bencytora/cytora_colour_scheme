@@ -1,2 +1,4 @@
+![cytora_wordmark_rgb_black](https://user-images.githubusercontent.com/42088664/43674959-792d5ebe-97d3-11e8-996a-a4da247356d9.png)
+
 # cytora_theme
 Sublime Text Theme using Cytora brand colours
